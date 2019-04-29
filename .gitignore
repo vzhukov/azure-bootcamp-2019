@@ -1,0 +1,10 @@
+.vscode
+azure-cognitive-csharp/.vs
+azure-cognitive-csharp/packages
+azure-cognitive-csharp/obj
+azure-cognitive-csharp/bin
+opencv-csharp/.vs
+opencv-csharp/packages
+opencv-csharp/obj
+opencv-csharp/bin
+openvino-cpp/debug
