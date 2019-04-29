@@ -32,7 +32,7 @@ Application based on OpenVINO to detect objects, faces and recognize age, gender
 
 [Read more...](openvino-cpp)
 
-### OpenVINO based Computer Vision
+### OpenVINO based Computer Vision (Python) and Azure IoT Hub
 
 Python app which detects faces with OpenVINO and send data to Azure IoT Hub.
 
